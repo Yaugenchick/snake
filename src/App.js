@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <div style={{ color: "goldenrod", fontSize: "4rem" }}>
+          Hello azure !
+        </div>
       </header>
     </div>
   );
